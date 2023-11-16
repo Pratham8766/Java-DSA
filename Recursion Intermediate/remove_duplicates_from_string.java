@@ -24,6 +24,6 @@ public class remove_duplicates_from_string {
         }
     }
     public static void main(String[] args) {
-        remove_duplicate("HappyNewYear",0,"");
+        remove_duplicate("happynewyear",0,"");
     }
 }
