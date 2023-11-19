@@ -1,4 +1,5 @@
 public class subsequences_of_string {
+    //Subsequence of a given string
     public static void printSubsequence(String str, int idx, String newString){
         if(idx==str.length()){
             System.out.println(newString);

@@ -1,4 +1,5 @@
 public class tower_of_hanoi {
+    //Tower of Hanoi problem
     public static void TOH(int n, String src, String help, String Dest){
         if(n==1){
             System.out.println("Transfer Disk "+n+ " from " + src + " to "+ Dest);

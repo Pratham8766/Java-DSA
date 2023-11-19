@@ -1,5 +1,6 @@
-//Place tiles of size 1xm in a floor of size nxm
+
 public class place_tiles{
+    //Place tiles of size 1xm in a floor of size nxm
     public static int count(int n, int m){
         if(n<m){
             return 1;

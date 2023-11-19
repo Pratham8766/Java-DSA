@@ -1,4 +1,5 @@
 public class total_paths {
+    //Total no of paths to go to certain point problem 
     public static int totalNoOfPaths(int i, int j, int n, int m){
         if(i==n || j==m){
             return 0;

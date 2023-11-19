@@ -1,4 +1,5 @@
 public class first_and_last_occurence {
+    //First and last occurence of a given element in an array
     public static int first = -1;
     public static int last = -1;
     public static void fl(String s, int idx, char element){

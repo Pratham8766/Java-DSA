@@ -1,4 +1,5 @@
 public class check_sorted_array {
+    //check is array is sorted
     public static boolean isSorted(int [] arr, int idx){  
         if(arr.length-1==idx){
             return true;

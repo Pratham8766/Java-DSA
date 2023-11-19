@@ -1,4 +1,5 @@
 public class permutations_of_string {
+    //permutation of a string problem
     public static void printPermutations(String s, String permutationString){
         if(s.length()==0){
             System.out.println(permutationString);

@@ -1,4 +1,5 @@
 public class ways_to_call_guest {
+    //Total ways to call guest problem
     public static int callGuest(int n){
         if(n<=1){
             return 1;

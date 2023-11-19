@@ -1,4 +1,5 @@
 public class moveX_endofString {
+    //Move a certain character to the end of the string
     public static void moveX(String s, int idx, int count, String n){
         if(s.length()==idx){
             for (int i = 0; i < count; i++) {

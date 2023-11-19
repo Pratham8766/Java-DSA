@@ -1,4 +1,5 @@
 public class remove_duplicates_from_string {
+    //Remove duplicates from the string 
     private static int toIndex(char c) {
         if (Character.isUpperCase(c)) {
             return c - 'A';

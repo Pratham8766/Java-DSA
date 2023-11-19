@@ -1,4 +1,5 @@
 public class keypad_combination {
+    //keyPad combination problem
     public static String [] keypad = {".","abc","def","ghi","jkl","mno","pqrs","tu","vwx","yz"};
     public static void printCombination(String s, int idx, String newString){
 

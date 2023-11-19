@@ -1,5 +1,5 @@
 import java.util.HashSet;
-
+//Unique subsequence of a given string
 public class subsequence_of_unique_string {
     public static void printUniqueSubsequence(String str, int idx, String newString, HashSet<String> set) {
         if (idx == str.length()) {

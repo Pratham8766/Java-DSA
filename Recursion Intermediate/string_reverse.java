@@ -1,4 +1,5 @@
 public class string_reverse {
+    //String reversal
     public static void stringReverse(int i, String s){
         if(i==0){
             System.out.println(s.charAt(i));
